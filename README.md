@@ -1,6 +1,6 @@
 # Spectro-Kinetic Transformer
 
-Transformer encoder for classifying spectro-kinetic combustion emission
+Transformer encoder for classifying spectro-kinetic
 sequences. Each sample is a variable-length sequence of spectral frames; the
 model returns one class label per sequence.
 
